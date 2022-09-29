@@ -1,19 +1,19 @@
 {
-  "contactOwner": "628817839722",
-  "ownerNumber": ["628817839722@s.whatsapp.net"],
+  "contactOwner": "6285817145056",
+  "ownerNumber": ["6285817145056@s.whatsapp.net"],
   "botName": "VelzzyBOT-MDོ",
-  "ownerName": "RonzzOfcོ",
+  "ownerName": "RioOwner",
   "pathimg": "./temp/logo.jpg",
-  "footer": "VelzzyBOT-MDོ © RonzzOfcོ",
+  "footer": "VelzzyBOT-MDོ © RioOwner",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "08817839722",
-      "atas_nama": "Ronzz Ofc"
+      "nomer": "081287890693",
+      "atas_nama": "RIO STORE"
     },
     "dana": {
-      "nomer": "628817839722",
-      "atas_nama": "Ronzz YT"
+      "nomer": "-",
+      "atas_nama": "-"
     }
   }
 }
